@@ -1,2 +1,5 @@
 # data-quality
-Data Quality Methods and Tools to Support CTSA Hub Data Sharing
+
+### Data Quality Methods and Tools to Support CTSA Hub Data Sharing
+
+EHR data must be tested for data quality when being shared for research. Data quality is typically measured in three categories: Conformance, Completeness, and Plausibility (Kahn et al., 2016 eGEMS). Harmonized datasets need to conform to an established standard format and vocabulary before any analysis can be done. They need to have a bare minimum threshold of completeness (i.e., what percentage of values are null or empty). They also need to prove a certain level of plausibility (i.e., do the data make sense for what is expected, are they believable and credible). To date, most data sharing networks have developed internal protocols and tools to manage data harmonization, but no publicly available tool with a standard operating procedure exists to easily assess and visualize data quality tests across institutions. Therefore, data quality remains a problem that is inconsistently tackled and only by high level analytic teams if available.
